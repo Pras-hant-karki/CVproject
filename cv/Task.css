@@ -1,0 +1,14 @@
+.prashant {
+    position: relative;
+    width: 300px;
+    height: 200px;
+    background-color: brown;
+}
+    .absolute-box {
+        position: absolute;
+        width: 150px;
+        height: 100px;
+        background-color: lightgoldenrodyellow;
+        top: 50px;
+        left: 50px;
+    }
